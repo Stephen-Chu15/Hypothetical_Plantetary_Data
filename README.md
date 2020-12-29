@@ -1,1 +1,1 @@
-# Hypothetical_Plantetary_Data
+# Hypothetical_Planetary_Data
