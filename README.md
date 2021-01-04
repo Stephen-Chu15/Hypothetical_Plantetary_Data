@@ -1,4 +1,4 @@
-# Hypothetical_Planetary_Data
+# Planetary_Data
 
 # Utilization of Machine Learning
 Our experiment began with the utilization of a random forest classifier as a base in order to understand how each variable affected the distribution and weight of each new exoplanet. 
